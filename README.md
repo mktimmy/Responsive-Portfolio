@@ -1,2 +1,2 @@
-# Responsive-Portfolio
+# responsive-portfolio
 Responsive-Portfolio html/css
